@@ -3,7 +3,7 @@ Atlas Tile Editor (ATE) is an editor for making graphics assets and other meta d
 
 # License
 
-The License is GPL v2.  
+The License is GPL v2.  This license only applies to the source code of the ATE project, and its underlying engine.  It does not apply to the graphic assets that come packaged with ATE, nor does it apply to any of the third-party libraries or utilities included herein.
 
 # Supporting this Project
 
