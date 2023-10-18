@@ -25,4 +25,6 @@ You should build for debug using "Debug Quiet Divide By Zero Warning" as default
 
 You should make sure to then test your changes in "Release with Debug Symbols", "Release with Full Debug", then "Release" mode.
 
+ATE is based on a variant of https://github.com/LAGameStudio/Apolune the Lost Astronaut Game Creation Framework.
+
 To be continued...
