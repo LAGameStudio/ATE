@@ -1,0 +1,516 @@
+Atlas {name {YXRsYXMx}
+texture {data/workspaces/main/atlases/atlas1.png}
+height {}
+normal {}
+grid
+mirrored
+rows {20}
+columns {20}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {YXRsYXMy}
+texture {data/workspaces/main/atlases/atlas2.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {20}
+columns {20}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {YXRsYXMz}
+texture {data/workspaces/main/atlases/atlas3.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {64}
+columns {64}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {YXRsYXM0}
+texture {data/workspaces/main/atlases/scifi_platformTiles_32x32.png}
+height {}
+normal {}
+grid
+mirrored
+rows {23}
+columns {35}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {YXRsYXM5}
+texture {data/workspaces/main/atlases/atlas9.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {20}
+columns {20}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {YXRsYXMxMA==}
+texture {data/workspaces/main/atlases/atlas10.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {20}
+columns {20}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {YXRsYXNBNA==}
+texture {data/workspaces/main/atlases/zombie_a4.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {YXRsYXNBNQ==}
+texture {data/workspaces/main/atlases/zombie_a5.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {8}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {ZnV0dXJlam95}
+texture {data/workspaces/main/atlases/future-joy-tilee.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {YXRsYXNBNQ==}
+texture {data/workspaces/main/atlases/future-ruined.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {cmVtaXhlZDE=}
+texture {data/workspaces/main/atlases/remixed.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {aGVpZ2h0YXRsYXMx}
+texture {data/workspaces/main/atlases/heightatlas.png}
+height {}
+normal {}
+grid
+mirrored
+rows {32}
+columns {64}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {Z3JvdW5kMQ==}
+texture {data/workspaces/main/atlases/groundatlas.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {32}
+columns {32}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {Y2l0eXQx}
+texture {data/workspaces/main/atlases/city_atlas.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {Y3B1czE=}
+texture {data/workspaces/main/atlases/cpu_atlas.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {b2xkZWFydGgx}
+texture {data/workspaces/main/atlases/old_earth_atlas.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {b2xkZWFydGgy}
+texture {data/workspaces/main/atlases/town.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {cmVtaXhlZF9ncmlteQ==}
+texture {data/workspaces/main/atlases/remixed_grimed.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {c2V3ZXJz}
+texture {data/workspaces/main/atlases/sewer_1.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {22}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {ZmFudGFzeQ==}
+texture {data/workspaces/main/atlases/Buch_Tiles.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {c25vd2ZhbnQx}
+texture {data/workspaces/main/atlases/snow-expansion.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {14}
+columns {22}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {ZmFudGFzeTI=}
+texture {data/workspaces/main/atlases/tiles_packed.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {8}
+columns {23}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {dHJlZXM=}
+texture {data/workspaces/main/atlases/trees.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {dHJlZXNfcGxhbnRz}
+texture {data/workspaces/main/atlases/trees_plants.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {dHJlZXNfcGxhbnRzX3JvY2tz}
+texture {data/workspaces/main/atlases/trees_plants_rocks.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {em9tYm93YWxs}
+texture {data/workspaces/main/atlases/zombowall.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {9}
+columns {12}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {YXNwaGF1bHQx}
+texture {data/workspaces/main/atlases/road1.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {8}
+columns {12}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {YXNwaGF1bHQy}
+texture {data/workspaces/main/atlases/road2.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {8}
+columns {12}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {ZGlydA==}
+texture {data/workspaces/main/atlases/dirt.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {8}
+columns {12}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {c2tlbGx5}
+texture {data/workspaces/main/atlases/bloodSkeletonBase.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {10}
+columns {10}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {dHJhc2gx}
+texture {data/workspaces/main/atlases/TrashTileset.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {16}
+columns {16}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {dHJhc2gy}
+texture {data/workspaces/main/atlases/Trash2.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {21}
+columns {20}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {dHJhc2gz}
+texture {data/workspaces/main/atlases/Trash3.png}
+height {}
+normal {}
+grid
+nearest
+mirrored
+rows {12}
+columns {20}
+elements {
+}
+centers {
+}
+dontGenElements
+}
+Atlas {name {ZXRoYW5vbi0zLW5vcm1hbHMtdXBzY2FsZQ==}
+texture {data/workspaces/main//atlases/ethanon-3-color-upscale.png}
+height {}
+normal {}
+grid
+rows {2}
+columns {2}
+elements {
+}
+centers {
+}
+}
+Atlas {name {ZXRoYW5vbi0zLW5vcm0=}
+texture {data/workspaces/main//atlases/ethanon-3-norm.png}
+height {}
+normal {}
+grid
+rows {2}
+columns {2}
+elements {
+}
+centers {
+}
+}

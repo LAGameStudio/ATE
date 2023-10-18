@@ -1,0 +1,147 @@
+
+MulliganMixes {name {smoke Explosion}
+nodes {
+MulliganMixNodes {mulligan {name {Example Explosion (copy)}
+sound {pitchLow {0.9}
+pitchHigh {0.9}
+gainLow {0.9}
+gainHigh {0.9}
+sounds {}
+}
+particleProgram {
+PFX {name {}
+type 4
+image {data\images\flares\neoflare15.png}
+imageA {data\images\flares\smoke4.png}
+xin {Humanized Rising Alternating Wave}
+xout {Humanized Gradual Rise}
+blend {additive}
+tint {#ff443eff}
+color {#9f9f00ff}
+burn {#3f7f7fff}
+velocity {}
+quantity {12}
+burnSize {0}
+emitDuration {0.1}
+effectDuration {1.0}
+emitSpreadAngleRange {90.0}
+in {0.25}
+out {0.75}
+endIn {0.0}
+startOut {0.0}
+width {260.564161}
+height {229.167386}
+widthTo {64.0}
+heightTo {64.0}
+spin {0.0}
+effectAngle {0.0}
+alpha {0.0}
+deltaWidth {0.5}
+mina {0.003922}
+burnDelay {0.0}
+splitAngle {45.0}
+waiting {0.0}
+interval {0.1}
+trailDuration {2.0}
+ejects
+nearby
+circularSpread
+nearbyRange {0.0}
+ejectionSpeed {1.844538}
+trailsEffect {name {}
+type 4
+xin {Humanized Irregular Saw Reversed}
+xout {Humanized Alternating Close Envelope}
+blend {solarize}
+tint {#695cb4ff}
+color {#bf007fff}
+burn {#9f7f9fff}
+velocity {}
+quantity {1}
+burnSize {0}
+emitDuration {0.1}
+effectDuration {1.0}
+emitSpreadAngleRange {90.0}
+in {0.25}
+out {0.75}
+endIn {0.0}
+startOut {0.0}
+width {32.0}
+height {32.0}
+widthTo {64.0}
+heightTo {64.0}
+spin {0.0}
+effectAngle {0.0}
+alpha {0.0}
+deltaWidth {0.5}
+mina {0.003922}
+burnDelay {0.0}
+splitAngle {45.0}
+waiting {0.0}
+interval {0.1}
+trailDuration {2.0}
+nearby
+circularSpread
+nearbyRange {0.0}
+ejectionSpeed {0.0}
+}
+}
+PFX {name {}
+type 0
+image {data\images\flares\smoke2.png}
+xin {Humanized Wobble Rise}
+xout {Humanized In Out Slow}
+blend {additive}
+tint {#f3f3f0ff}
+color {#ff51ffff}
+burn {#ff5f3fff}
+velocity {}
+quantity {1}
+burnSize {0}
+emitDuration {6.826596}
+effectDuration {9.483875}
+emitSpreadAngleRange {90.0}
+in {0.16}
+out {0.806667}
+endIn {0.948387}
+startOut {4.109679}
+width {260.564161}
+height {260.564161}
+widthTo {229.167386}
+heightTo {40.786736}
+spin {0.0}
+effectAngle {0.0}
+alpha {0.0}
+deltaWidth {4.811765}
+mina {0.014719}
+burnDelay {2.679832}
+splitAngle {45.0}
+waiting {0.0}
+interval {3.418175}
+trailDuration {2.0}
+coalesce
+nearby
+nearbyRange {17.48448}
+ejectionSpeed {2.852941}
+}
+}
+}
+startTime {0.0}
+endTime {0.0}
+cutLeft {0.0}
+cutRight {0.0}
+x {0.0}
+y {0.0}
+vx {0.0}
+vy {0.0}
+scaleX {1.0}
+scaleY {1.0}
+}
+}
+framesPerSecond {60.0}
+endTime {0.0}
+limitFrames
+startFrame {0}
+endFrame {59}
+outSize 5
+}

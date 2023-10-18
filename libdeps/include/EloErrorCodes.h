@@ -1,0 +1,43 @@
+// List of Error Codes
+
+#define EloSuccess						0
+#define EloFound						1
+#define EloKeyPresent					2
+#define EloKeyCreated					3
+#define EloSetupPromptRebootStat		4
+#define EloAddSetupToRunOnRebootStat	5
+#define EloReboot						6
+
+#define EloFailure		                -1
+#define EloError		                -1 
+#define EloErrorInIoctl		            -2
+#define EloErrorCallWasCancelled	    -3
+#define EloErrorInvalidTouchScreen		-4
+#define EloErrorInvalidMonitorNo		-5
+#define EloErrorInvalidBuffer			-6
+#define EloErrorInvalidHandle			-7
+#define EloErrorNoDriver				-8
+#define EloErrorNotInitialized			-9
+#define EloErrorInvalidCommand			-10
+#define EloErrorVersionLock				-11
+#define EloErrorBufferSize				-12
+#define EloErrorTouchDeviceNotWorking	-13
+#define EloErrorTouchScreenNumberInvalid -14
+#define EloErrorNoTouchScreens			-15
+#define EloErrorInvalidScreenNumber		-16
+#define EloErrorUnknown					-17
+#define EloErrorNotImplemented			-18
+#define EloErrorDeviceBusy				-19
+#define EloErrorIncompatibleVersion		-20
+#define EloErrorFileNotFound			-21
+#define EloErrorNoResponse				-22
+#define EloErrorNoEDIDInSystem			-23
+#define EloErrorNoData					-24
+#define EloErrorRecordNotFound			-25
+#define EloErrorScrnNotCalibrated		-26
+#define EloErrorMiscompare				-27
+#define EloErrorNoNVRamSupport			-28
+#define EloErrorNoMatchingEDID			-29
+#define EloErrorInvalidSSResponse		-30
+#define EloErrorInvalidMonitorNumber	-31
+#define EloErrorNoSmartSetLock      	-32

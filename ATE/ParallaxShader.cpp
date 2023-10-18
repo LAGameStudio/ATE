@@ -1,0 +1,19 @@
+#include "ParallaxShader.h"
+
+PhongShader phongShader;
+
+ParallaxPointShader parallaxpointShader;
+
+BasicTextureShader basictextureShader;
+
+NormalMappingShader normalmappingShader;
+
+NormalMappingAlphaShader normalmappingalphaShader;
+
+NormalMapping3LightShader normalmapping3lightShader;
+
+NormalMappingAlpha3LightShader normalmappingalpha3lightShader;
+
+NormalMappingAlpha3LightALMShader normalmappingalpha3lightalmShader;
+
+NormalMappingColorAlpha3LightShader normalmappingcoloralpha3lightShader;
