@@ -9,7 +9,7 @@ The License is GPL v2.
 
 Buy it on Steam.  https://store.steampowered.com/app/738830/Atlas_Tile_Editor_ATE/
 
-You can also support this project either by submitting changes, bug fixes, feature additions and pull requests.
+You can also support this project by submitting issue reports, code changes, bug fixes, feature additions and pull requests.
 
 # Making Changes
 
